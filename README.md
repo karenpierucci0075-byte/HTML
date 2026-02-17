@@ -26,7 +26,7 @@
 
 <h2>Historia de HTML</h2>
 <p> HTML fue creado por Tim Berners-Lee en 1991. <cite>Tim Berners-Lee</cite> era crear un sistema de documentos que pudiera ser compartido a través de Internet. 
-<h2>La primera versión de HTML/h2>
+<h2>La primera versión de HTML </h2>
 <p>se llamaba HTML 1.0 y era muy básica, pero con el tiempo se han ido 
 añadiendo nuevas etiquetas y funcionalidades, lo que ha permitido que HTML se convierta en el
 lenguaje de marcado más utilizado en la web.
